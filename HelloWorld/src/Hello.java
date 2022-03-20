@@ -1,5 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
+        System.out.println("First Commit");
         boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
