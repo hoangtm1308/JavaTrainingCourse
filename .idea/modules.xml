@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaExcercies/JavaExcercies.iml" filepath="$PROJECT_DIR$/JavaExcercies/JavaExcercies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaTrainingCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaTrainingCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javatutorial/Javatutorial.iml" filepath="$PROJECT_DIR$/Javatutorial/Javatutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/MinMaxChallenge.iml" filepath="$PROJECT_DIR$/ReadingUserInput/MinMaxChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPTraining/OOPTraining.iml" filepath="$PROJECT_DIR$/OOPTraining/OOPTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" filepath="$PROJECT_DIR$/ParsingValuesFromString/ParsingValuesFromString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" filepath="$PROJECT_DIR$/ReadingUserInput/ReadingUserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javatutorial/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" filepath="$PROJECT_DIR$/Javatutorial/SecondsAndMinutesChallenge/SecondsAndMinutesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javatutorial/While and Do While Statment/While and Do While Statment.iml" filepath="$PROJECT_DIR$/Javatutorial/While and Do While Statment/While and Do While Statment.iml" />
+    </modules>
+  </component>
+</project>
